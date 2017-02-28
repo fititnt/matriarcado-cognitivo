@@ -8,11 +8,20 @@ poderá sugerir melhorias. Esse modelo teórico é sobre **estratégias de colet
 de dados e possivelmente coleção de referências científicas que poderiam
 ser consideradas, e não sobre o que deve ou não ser feito.**
 
-> **Um exemplo**: A _Bizavó Silva_ não sabe ler nem escrever, mas **ADORA** ligar pra todo mundo.
+O nome dessa modelo teórico é **Matriarcado Cognitivo**, porém poderia ser
+**Método Para Tios Que Você Nem Conhece Presenteem Algo Realmente Especial E Útil Em Vez De Roupa De Tamanho Errado**.
+
+> **Um exemplo de coleta de dados**: A _Bizavó Silva_ não sabe ler nem escrever, mas **ADORA** ligar pra todo mundo.
 > Podem achar que ela fala demais, mas ela é a pessoa que se da bem com todos.
-> A _Tia-avó Silva_, que só sabia usar Facebook e WhatsApp recebecom ajuda técnica _Primo-Tio 'Full-stack' Silva_,
-> aprende a usar um programa maravilhoso, o _Planilhas Google para Android_
-> (...)
+> A _Tia-avó Silva_, que só sabia usar Facebook e WhatsApp passa a receber ajuda técnica _Primo-Tio 'Full-stack' Silva_,
+> aprende a usar um programa maravilhoso, o _Planilhas Google para Android_,
+> e, com ajuda e permissão da sua mãe, _Mãe Silva_, e seu pai, _Pai Silva_,
+> juntam informações quais brinquedos você já tem, como você interage com seus pais,
+> se você faz, e se faz, qual sua habilidade com atividades relacionadas esportes, música, artes, etc.
+
+----
+
+A imagem abaixo tem uma lista pra quem não lembra o que é sobrinho, tios-avos e afins.
 
 ![Graus de Parentesco](imagens/parentesco-tabela.jpg)
 
@@ -24,6 +33,8 @@ ser consideradas, e não sobre o que deve ou não ser feito.**
 > e outros aspectos do desenvolvimento do cérebro em relação ao ponto de vista de um adulto.
 > Em outras palavras, o desenvolvimento cognitivo é o processo do surgimento da capacidade de pensar e compreende."
 > -- [Fonte: Wikipédia](https://pt.wikipedia.org/wiki/Desenvolvimento_cognitivo)
+
+_Nota: melhorar explicação (fititnt, 2017-02-28 02:56)_
 
 ## Tendência comum atual no desenvolvimento de crianças
 
@@ -39,3 +50,12 @@ A tendência comum na criação de filhos pelos pais e mães é considerar:
 6. Educação escolar e crenças _rigidas_ dos genitores (religião, ideologia de gênero, ...)
 7. Opinião dos próprios filhos
 
+_Nota: melhorar explicação (fititnt, 2017-02-28 02:56)_
+
+## O que coletar de dados?
+
+Em breve deve ser adicionado aqui.
+
+Sugestões para quem não não sabe usar _um
+site chamado Github_ podem ser feitas diretamente com o Emerson Rocha Luiz
+via e-mail emerson@alligo.com.br.
