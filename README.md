@@ -1,12 +1,20 @@
 # Matriarcado Cognitivo
 
 Modelo teórico onde a pessoa ascendente cognitivamente capaz é responsável por
-coletar continuamente dados de importância ao desenvolvimento cognitivo de todos
+coletar continuamente dados de importância ao desenvolvimento cognitivo de todas
 as pessoas descendentes jovens. Então com ajuda de terceiros e em conjunto e,
 necessariamente, aprovação dos genitores diretos dos filhos jovens,
 poderá sugerir melhorias. Esse modelo teórico é sobre **estratégias de coleta
 de dados e possivelmente coleção de referências científicas que poderiam
 ser consideradas, e não sobre o que deve ou não ser feito.**
+
+> **Um exemplo**: A _Bizavó Silva_ não sabe ler nem escrever, mas **ADORA** ligar pra todo mundo.
+> Podem achar que ela fala demais, mas ela é a pessoa que se da bem com todos.
+> A _Tia-avó Silva_, que só sabia usar Facebook e WhatsApp recebecom ajuda técnica _Primo-Tio 'Full-stack' Silva_,
+> aprende a usar um programa maravilhoso, o _Planilhas Google para Android_
+> (...)
+
+![Graus de Parentesco](imagens/parentesco-tabela.jpg)
 
 ## O que é desenvolvimento cognitivo
 
