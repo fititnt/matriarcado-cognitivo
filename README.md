@@ -25,6 +25,19 @@ A imagem abaixo tem uma lista pra quem não lembra o que é sobrinho, tios-avos 
 
 ![Graus de Parentesco](imagens/parentesco-tabela.jpg)
 
+## Motivação inicial
+
+Emerson Rocha, desenvolvedor de software "Full-stack" trabalha também com
+acessibilidade web e mais recentemente com acessibilidade cognitiva.
+Isso quer dizer que até no tempo vago ele tem interesse em aprender sobre
+o que afeta o desenvolvimento cognitivo de pessoas, pois _ganha dinheiro_
+e ajudar a tornar o mundo um lugar melhor <3.
+
+O mesmo Emerson Rocha, [assim como é menos raro com profisionais de TI](http://adultaddstrengths.com/2006/02/09/top-10-advantages-of-add-in-a-high-tech-career/)
+também tem um transtorno mental incurável porém tratável, que é tem afetado
+por hereditariedade chamado [Transtorno de Défice de Atenção e Hiperatividade (TDAH)](https://pt.wikipedia.org/wiki/Transtorno_do_d%C3%A9ficit_de_aten%C3%A7%C3%A3o_com_hiperatividade).
+
+
 ## O que é desenvolvimento cognitivo
 
 > "O desenvolvimento cognitivo é um campo de estudo da neurociência e psicologia
